@@ -22,7 +22,8 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ldfha&show_icons=true&theme=shadow_blue"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldfha&layout=compact&theme=shadow_blue" /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+        <img src="https://streak-stats.demolab.com/?user=ldfha&theme=shadow-blue"
+         /> <img src="https://github-readme-stats.shion.dev/api?username=ldfha&theme=shadow_blue" /> </div> 
     </div>
      
