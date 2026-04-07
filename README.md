@@ -1,9 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello%20World!👋%20I'm%20Suyeon&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
+</div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 인천대학교 컴퓨터공학부, 미래자동차 연계전공 졸업 (20.3~25.2)</li><li> H모빌리티 클래스 자율주행 트랙(25.4~25.7)</li><li> 현대로템 AI 과정 KDT 6기 (26.1~) </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📘 Education </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <li> 인천대학교 컴퓨터공학부, 미래자동차 연계전공 졸업 (20.3~25.2)</li>
+        <li> H모빌리티 클래스 자율주행 트랙(25.4~25.7)</li>
+        <li> 현대로템 AI 과정 KDT 6기 (26.1~) </li>
+    </div> 
     </div>
     <br>
     <div style="text-align: left;">
@@ -15,9 +19,9 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
         <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
         <br/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+        <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -40,7 +44,8 @@
         <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div  align= "center"> 
         <img src="https://streak-stats.demolab.com/?user=ldfha&theme=shadow-blue"
          /> <img src="https://github-readme-stats.shion.dev/api?username=ldfha&theme=shadow_blue" /> </div> 
     </div>
